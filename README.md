@@ -1,4 +1,4 @@
-# Monsoon
+# Motivation Radio
 Motivation radio hardware Is The board for Rich Heslip's ESP32 based eurorack breakout module.
 
 Currently there is no "standard" software release for it, you can use the arduino IDE with ESP32 [arduino core](https://github.com/espressif/arduino-esp32) if you want to develop something yourself!
