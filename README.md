@@ -8,14 +8,18 @@ software can be found at his repositories here. (more to come as it is developed
 
 8Hp eurorack module.
 
-4 CV out with 12 bit external DAC
-4 digital (gate. trig, clock etc) out.
-4 CV in with 12 bit external ADC
-4 digital in
-MIDI IN
-MIDI OUT
-
 128x32 display and encoder.
+
+I/O:
+
+* 4 CV out with 12 bit external DAC
+* 4 digital (gate. trig, clock etc) out.
+* 4 CV in with 12 bit external ADC
+* 4 digital in
+* MIDI IN
+* MIDI OUT
+
+
 
 
 JM.
