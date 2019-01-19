@@ -4,7 +4,7 @@ Motivation radio hardware Is The board for Rich Heslip's ESP32 based eurorack br
 Currently there is no "standard" software release for it, you can use the arduino IDE with ESP32 [arduino core](https://github.com/espressif/arduino-esp32) if you want to develop something yourself!
 
 software can be found at his repositories here. (more to come as it is developed)
-[BLEMIDI](https://github.com/rheslip/BLEMIDI)
+[rheslip](https://github.com/rheslip)
 
 8Hp eurorack module.
 
